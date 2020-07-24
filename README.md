@@ -1,10 +1,15 @@
 # Employee-Attrition-Prediction
+Employee Attrition prediction based on general employee data given by IBM.
+
+## Project website
+https://www.kaggle.com/c/summeranalytics2020
+
 ## Data Description
-File descriptions
+### File descriptions
 •	train.csv - the training set
 •	test.csv - the test set
 •	Sample submission.csv - a sample submission file in the correct format
-Data fields
+### Data fields
 •	Id - an anonymous id given to an Employee
 •	Age - Age of an Employee
 •	Attrition - Did the Employee leave the company, 0-No, 1-Yes
